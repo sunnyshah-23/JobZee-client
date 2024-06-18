@@ -13,7 +13,7 @@ const Navbar = () => {
   const handleLogout = async () => {
     try {
       const response = await axios.get(
-        `${BASE_URL}/api/v1/user/logout`,
+        `${BASE_URL}/v1/user/logout`,
         {
           withCredentials: true,
         }
