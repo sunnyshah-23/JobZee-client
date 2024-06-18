@@ -1,1 +1,1 @@
-export const BASE_URL="https://jobzee-server.onrender.com"
+export const BASE_URL="https://jobzee-server.onrender.com/api"
