@@ -1,1 +1,1 @@
-export const BASE_URL="https://jobzee-server.onrender.com/api"
+export const BASE_URL="https://job-zee-client-mea7iyizb-sunnyshah23s-projects.vercel.app/api"
